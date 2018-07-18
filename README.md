@@ -4,7 +4,6 @@
 
 ## 主要说明
 
-``` bash
 基本基于vue-cli的安装方式 本次案例是基于 [karma](http://karma-runner.github.io/2.0/index.html)+[mocha](https://mochajs.org/)+[chai](http://www.chaijs.com/api/assert/) 来的，**所有在选择测试方式时按 '上下箭头键' 选到karma这项**。
 **特别说明**本次案例还基于 [vue-test-utils](https://vue-test-utils.vuejs.org/zh/)的api
 案例源码分别在src/components以及test/unit/specs
