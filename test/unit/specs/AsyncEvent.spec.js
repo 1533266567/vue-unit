@@ -10,7 +10,6 @@ describe('AsyncEvent.vue',()=>{
 		setTimeout(()=> {
 			expect( Number(wrapper.find('span').text()) ).to.equal(2);
 			done();
-
 		}, 1000)
 	})
 })
