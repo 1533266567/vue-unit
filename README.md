@@ -1,7 +1,6 @@
 # vue-cli单元测试案例
 
 > A Vue.js project
-
 ## 主要说明
 
 基本基于vue-cli的安装方式 本次案例是基于 [karma](http://karma-runner.github.io/2.0/index.html)+[mocha](https://mochajs.org/)+[chai](http://www.chaijs.com/api/assert/) 来的，**所有在选择测试方式时按 '上下箭头键' 选到karma这项**。
@@ -18,3 +17,8 @@
 ## 后续说明
 初次接触基于vue-cli单元测试，粗粗的写了几个简单的案例，后续会补上其他的测试类型。
 [主要参考文档](https://segmentfault.com/a/1190000012654035)
+
+##执行
+npm install 
+npm run dev (可以看要测试的页面,位于src文件夹下)
+npm run unit (执行单元测试代码,可以看到测试结果)
