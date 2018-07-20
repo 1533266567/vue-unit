@@ -18,7 +18,7 @@
 初次接触基于vue-cli单元测试，粗粗的写了几个简单的案例，后续会补上其他的测试类型。
 [主要参考文档](https://segmentfault.com/a/1190000012654035)
 
-###执行
-npm install 
-npm run dev (可以看要测试的页面,位于src文件夹下)
-npm run unit (执行单元测试代码,可以看到测试结果)
+### 执行
+npm install  
+npm run dev (可以看要测试的页面,位于src文件夹下)  
+npm run unit (执行单元测试代码,可以看到测试结果)  
